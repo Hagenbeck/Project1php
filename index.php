@@ -26,7 +26,7 @@
             ];
 
                 for ($i = 0; $i<=5; $i++){ ?>
-                    <div class='child<?=$i?>'>
+                    <div class='child<?=$i?>'> 
                         <p><?= $array[$i] ?></p>
     
                   <?php for ($x = 0; $x<=4; $x++){ ?>
