@@ -1,0 +1,40 @@
+.wrapper{
+    display: flex;
+}
+
+.child0{
+    padding-left: 10px;
+    float:left;
+    overflow:hidden;
+
+}  
+
+.child1{  
+    padding-left: 10px;
+    float:left;
+    overflow:hidden;
+}  
+
+.child2{
+    padding-left: 10px;
+    float:left;
+    overflow:hidden;
+}  
+
+.child3{
+    padding-left: 10px;
+    float:left;
+    overflow:hidden;
+}  
+
+.child4{
+    padding-left: 10px;
+    float:left;
+    overflow:hidden;
+}  
+
+.child5{
+    padding-left: 10px;
+    float:left;
+    overflow:hidden;
+}  
