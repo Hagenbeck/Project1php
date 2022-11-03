@@ -8,7 +8,7 @@ for($i = 0; $i<100; $i++){
 
 
 for($i = 2; $i<=100; $i++){             //von jeder zweiten bis zu der hundertsten Tür
-    for($x= 1; $x*$i<=100; $x++){       //solange wie jeder zweite(oder auch hundertste) in das array passt, den status der tür ändern                                       
+    for($x= 1; $x*$i<=100; $x++){       //solange wie jeder i-te in das array passt, den status der tür ändern                                       
         if($doors[$x*$i-1] == true){    //wenn auf dann zu, sonst auf
             $doors[$x*$i-1] = false;  
         }

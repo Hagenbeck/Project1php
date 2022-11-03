@@ -26,11 +26,11 @@
             ];
 
                 for ($i = 0; $i<=5; $i++){ ?>
-                    <div class='child<?=$i?>'> 
+                    <div class='child<?=$i?>'>
                         <p><?= $array[$i] ?></p>
     
                   <?php for ($x = 0; $x<=4; $x++){ ?>
-                            <input type='int' name='subject<?=$i?>_field<?=$x?>' value='0' size='1' maxlength='1'>
+                            <input type='number' name='subject<?=$i?>_field<?=$x?>' value='0' size='1' maxlength='1'>
 
                   <?php }  ?>
                     </div>
