@@ -78,14 +78,17 @@
         </form>
 
         <br>
+        
         <?php
         if($win == true){
         ?>
+
         <div class="Win">
             <p>
                 Gewonnen
             </p>
         </div>
+        
         <?php
         }
         else{
