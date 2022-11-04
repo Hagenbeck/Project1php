@@ -1,0 +1,22 @@
+.Win{
+    color:darkolivegreen;
+    background: #DDDDDD;
+    width:fit-content;
+
+
+    border-style: dotted;
+    border-width: medium;
+    border-color: darkolivegreen;
+    border-radius: 10px;
+}
+
+.Loss{
+    color:brown;
+    background: #DDDDDD;
+    width:fit-content;
+
+    border-style: dotted;
+    border-width: medium;
+    border-color: brown;
+    border-radius: 10px;
+}

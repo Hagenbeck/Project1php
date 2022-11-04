@@ -42,7 +42,7 @@
         </div>
 
         <form action="doors.php" method="post">
-        <p><input type="submit" /></p>
+        <p><input type="submit" value="Türen" /></p>
         </form>
 
     </body>
